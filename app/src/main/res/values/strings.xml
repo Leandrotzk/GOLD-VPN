@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GOLD</string>
+    <string name="vpn_title">GOLD VPN TEST</string>
+    <string name="vpn_status_disconnected">DESCONECTADO</string>
+    <string name="vpn_status_connecting">CONECTANDO...</string>
+    <string name="vpn_status_connected">CONECTADO (ONLINE)</string>
+    <string name="btn_connect">INICIAR CONEXÃO</string>
+    <string name="btn_disconnect">PARAR VPN</string>
+</resources>
